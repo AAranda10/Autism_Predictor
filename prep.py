@@ -32,3 +32,5 @@ def prep_asd_data():
                               'is_asian_True': 'is_asian', 'is_middle_eastern_True': 'is_middle_eastern',
                               'is_black_True':'is_black', 'is_other_True': 'is_other'})
     return df
+
+print("prep.py functions loaded successfully")
