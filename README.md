@@ -48,33 +48,40 @@ Initial Questions:
 
 | Feature | Definition |
 | --- | --- |
-| a1 | Pending |
-| a2 | Pending |
-| a3 | Pending |
-| a4 | Pending |
-| a5 | Pending |
-| a6 | Pending |
-| a7 | Pending |
-| a8 | Pending |
-| a9 | Pending |
-| a10 | Pending |
-| a1 | Pending |
-| a1 | Pending |
-| a1 | Pending |
-| a1 | Pending |
-| a1 | Pending |
-| a1 | Pending |
-| a1 | Pending |
+| a1 | Does your child look at you when you call his/her name? |
+| a2 | How easy is it for you to get eye contact with your child?  |
+| a3 | Does your child point to indicate that s/he wants something? |
+| a4 | oes your child point to share interest with you? |
+| a5 | Does your child pretend? |
+| a6 | Does your child follow where you’re looking?  |
+| a7 | f you or someone else in the family is visibly upset, does your child show signs 
+of wan9ng to comfort them? |
+| a8 | Would you describe your child’s first words as: |
+| a9 | Does your child use simple gestures? |
+| a10 | Does your child stare at nothing with no apparent purpose? |
+| age_mons | Child's age in months |
+| is_male | Sex of the child ( 1: Male, 0: Female) |
+| ethnicity | Ethnicity of child, reported by the person who completed survey |
+| whocompletedthetest | Individual who completed survey |
+| has_jaundice | Whether jaundice was present in child or not |
+| has_fam_history | Whether child had family history of Autism or not |
 
 | Target | Definition |
 | --- | --- |
-| Pending | Pending|
+| has_asd | If child was diagnosed with autism or not ( 1: Autism Present, 0: Not Present|
 
 
 ## Key Findings
 
-- Pending
+- It appears that question 1, 4, 5, 6, 7, and 9 are the most effective at differentiating a child with asd or not
+- Family history does not appear to be an accurate indicator if a child is autistic or not
+- This may not be reliable because typically families don't share their personal medical history
+- Males are diagnosed with Autism more than females based on the autism rate
+- Ethnicity is not as big of a factor as I had originally had anticipated
 
 ## Takeaways
 
-- Pending
+- The MVP performed perfectly on the unseen test data without overfitting
+- This model would prove useful for medical providers who would like to be able to streamline the pre diagnosis with an online survey using a website or app.
+- Using the model, they would be able to prompt the parent of the patient to make an appointment for early intervention.
+- In doing so, children will be able to get the care they need much sooner, rather than later.
