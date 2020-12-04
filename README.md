@@ -82,6 +82,7 @@ of wan9ng to comfort them? |
 ## Takeaways
 
 - The MVP performed perfectly on the unseen test data without overfitting
-- This model would prove useful for medical providers who would like to be able to streamline the pre diagnosis with an online survey using a website or app.
-- Using the model, they would be able to prompt the parent of the patient to make an appointment for early intervention.
+- The Random Forest Model is a solid backup if needed as it had an accuracy of 97 percent on unseen data.
+- The MVP model would prove useful for medical providers who would like to be able to streamline the pre diagnosis with an online survey using a website or app.
+- Using the MVP model, they would be able to prompt the parent of the patient to make an appointment for early intervention.
 - In doing so, children will be able to get the care they need much sooner, rather than later.
