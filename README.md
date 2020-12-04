@@ -54,8 +54,8 @@ Initial Questions:
 | a4 | oes your child point to share interest with you? |
 | a5 | Does your child pretend? |
 | a6 | Does your child follow where you’re looking?  |
-| a7 | f you or someone else in the family is visibly upset, does your child show signs 
-of wan9ng to comfort them? |
+| a7 | If you or someone else in the family is visibly upset, does your child show signs 
+|    | of wanting to comfort them? |
 | a8 | Would you describe your child’s first words as: |
 | a9 | Does your child use simple gestures? |
 | a10 | Does your child stare at nothing with no apparent purpose? |
