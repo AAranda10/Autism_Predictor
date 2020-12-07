@@ -67,7 +67,7 @@ Initial Questions:
 | has_fam_history | Whether child had family history of Autism or not |
 
 | Target | Definition |
-| --- | --- |)
+| --- | --- |
 | has_asd | If child was diagnosed with autism or not ( 1: Autism Present, 0: Not Present)|
 
 
