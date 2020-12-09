@@ -1,3 +1,5 @@
+<img src="https://wallpapercave.com/wp/wp2445825.jpg" width="150">
+
 # Autism Predictor
 
 ### Author: Austin Aranda
