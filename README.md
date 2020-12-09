@@ -1,4 +1,4 @@
-<img src="https://wallpapercave.com/wp/wp2445825.jpg" width="150">
+<img src="https://wallpapercave.com/wp/wp2445825.jpg" width="1500">
 
 # Autism Predictor
 
